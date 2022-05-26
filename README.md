@@ -6,5 +6,4 @@ https://themeforest.net/item/resumo-personal-portfolio-react-nextjs-template/350
 https://www.figma.com/file/aaYUgxXB8ADhCtrXBL8m6R/Untitled?node-id=0%3A1
 # Hosted website
 https://munyameugene.github.io/
-# Code
-https://github.com/MunyamEugene/munyameugene.github.io
+
