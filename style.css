@@ -614,19 +614,19 @@ margin-top: 10px;
 color: #987750; 
 top: 10px;  
 background-color:#1d1b19;
-transform: scale(0.4);
+transform: scale(0.5);
 }
 #contact form .number input:hover~.lable {
     color: #987750;
     top: 80px;
     background-color: #1d1b19;
-    transform: scale(0.4);
+    transform: scale(0.5);
 }
 #contact form  textarea:hover~.lable {
     color: #987750;
     top: 150px;
     background-color: #1d1b19;
-    transform: scale(0.4);
+    transform: scale(0.5);
     
 }
 #contact form .first-input {
