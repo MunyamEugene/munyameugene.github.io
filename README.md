@@ -1,7 +1,10 @@
 # munyameugene.github.io
-# The theme from themeforest
+
+# Theme from themeforest
 https://themeforest.net/item/resumo-personal-portfolio-react-nextjs-template/35083573
-# The Figma design
+# Figma Design
 https://www.figma.com/file/aaYUgxXB8ADhCtrXBL8m6R/Untitled?node-id=0%3A1
-# Hosted Pages
+# Hosted website
 https://munyameugene.github.io/
+# Code
+https://github.com/MunyamEugene/munyameugene.github.io
