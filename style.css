@@ -329,7 +329,7 @@ table th:first-child{
 font-weight: 500;
 color: #888;
 text-transform: uppercase;
-font-size: 18pt;
+font-size: 12pt;
 line-height: 30px;
 padding: 2px;
 }
@@ -510,8 +510,8 @@ margin-top: 10px;
     
 }
 .service-item .service-content p{
-    font-size: 14pt;
-    line-height: 20px;
+    font-size: 12pt;
+    line-height: 22px;
 }
 .service-item .price{
     display: flex;
@@ -538,10 +538,10 @@ margin-top: 10px;
 
 
 .text-content #customer{
-    height: 80vh;
+    height: 100vh;
     padding-left: 100px;
     padding-right: 100px;
-    margin-top: 400px;
+    margin-top: 500px;
 }
 #customer .comments{
     padding-bottom: 20px;
@@ -570,7 +570,6 @@ margin-top: 10px;
     height: 100vh;
     padding-left: 100px;
     padding-right: 100px;
-    margin-top: 200px;
 }
 #contact .desc{
     line-height: 30px;
