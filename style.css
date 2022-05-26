@@ -261,9 +261,8 @@ nav .social-media {
     padding-bottom: 50px;
 }
 #home .desc{
-    line-height: 40px;
-    font-size: 30px;
-    letter-spacing: 0;
+    line-height: 30px;
+    font-size: 18pt;
 }
 
 
@@ -306,8 +305,9 @@ section p{
 }
 
 #about .desc{
-    padding-bottom: 50px;
-    line-height: 44px;
+    line-height: 30px;
+    font-size: 18pt;
+    margin-bottom: 50px;
 }
 
 #about table{
@@ -460,6 +460,14 @@ padding: 2px;
 #portfolio .project:hover {
     transform: scale(1.2);
 }
+.project .design{
+    font-size: 20px;
+    color: #888;
+}
+.project .name{
+    font-size: 30px;
+    color: #ddd;
+}
 
 .text-content #service {
     height: 100vh;
@@ -469,8 +477,9 @@ padding: 2px;
 
 }
 #service .desc{
-    padding-bottom: 50px;
-    line-height: 40px;
+    line-height: 30px;
+    font-size: 18pt;
+    margin-bottom: 20px;
 }
 #service .service-item{
 background-color: #181715;
@@ -485,7 +494,7 @@ margin-top: 10px;
     background-color: #888;
     height: 50px;
     position: absolute;
-    margin-top: 40px;
+    margin-top: 60px;
 
 }
 
@@ -502,6 +511,7 @@ margin-top: 10px;
 }
 .service-item .service-content p{
     font-size: 14pt;
+    line-height: 20px;
 }
 .service-item .price{
     display: flex;
@@ -528,7 +538,7 @@ margin-top: 10px;
 
 
 .text-content #customer{
-    height: 100vh;
+    height: 80vh;
     padding-left: 100px;
     padding-right: 100px;
     margin-top: 400px;
@@ -561,6 +571,10 @@ margin-top: 10px;
     padding-left: 100px;
     padding-right: 100px;
     margin-top: 200px;
+}
+#contact .desc{
+    line-height: 30px;
+    font-size: 18pt;
 }
 #contact form{
     width: 100%;
@@ -678,6 +692,17 @@ width: 100%;
     margin-top: 100px;
     margin-bottom: 100px;
 }
+.contact-info p{
+    font-size: 12pt;
+    color: #888;
+    padding-top: 5px;
+    text-transform: uppercase;
+}
+.contact-info h3{
+    font-size: 14pt;
+    color: #ddd;
+}
+
 .contact-info .footer{
     position: relative;
 }
@@ -696,8 +721,10 @@ background-color: #888;
 }
 
 .footer .footer-content p {
-    font-size: 14pt;
-    margin-top: 10px;
+    font-size: 12pt;
+    color: #888;
+    padding: 10px;
+
 }
 
 
