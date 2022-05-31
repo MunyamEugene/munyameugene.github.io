@@ -47,10 +47,11 @@
         const email = form[0][1].value;
         const phone = form[0][2].value;
          const message = form[0][3].value;
+         thanku.innerHTML='';
     
-  
-         
-fetch("https://formspree.io/f/xnqwwggn", {
+  if(name!=''&& email!=''&& phone!=''&& message!=''){
+
+    fetch("https://formspree.io/f/xnqwwggn", {
 	method: "POST",
 	body: JSON.stringify({
 		name,
@@ -67,6 +68,15 @@ fetch("https://formspree.io/f/xnqwwggn", {
     thanku.appendChild(txt);
     form[0].reset();
 });
+
+  }else{
+
+    let txt = document.createTextNode('Fill the form please');
+    thanku.appendChild(txt);
+
+  }
+         
+
 
 })
 
