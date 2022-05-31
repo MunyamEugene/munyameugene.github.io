@@ -5,13 +5,14 @@
     font-family: 'Josefin Sans', sans-serif;
     
 }
+
 html{
     scroll-behavior: smooth;
 }
 
 
 body{
-    background-color: #1d1b19;
+    background-color: yellow;
     height: 100vh;
     overflow-y: scroll;
     scroll-margin: 20px;
